@@ -18,4 +18,5 @@
 
 ### Resutados
 
-![Alt text](./imagen1.png "Optional title")
+
+![Alt text](./image1.png "Optional title")
